@@ -1,1 +1,1 @@
-W-z6hf_pOirb1y4BHC6nmlXfoT4Nqa4CQFyAL1HHmIg=
+No secure method to save your key, please, use .env
